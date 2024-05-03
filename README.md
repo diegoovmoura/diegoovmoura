@@ -2,7 +2,7 @@
 
 - 📍 I'm from Brazil
 - 📚 graduating on CESAR School
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently working on CESAR
 - 📫 How to reach me: diegoovmoura@gmail.com
 - 📱linkedin: https://www.linkedin.com/in/diegoovmoura/
 
